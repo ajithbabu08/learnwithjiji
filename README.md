@@ -29,7 +29,8 @@ lib/
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_result.jpg)
+![Response View](screenshots/home_search.jpg)
 
 ### Response View
-![Response View](screenshots/home_search.jpg)
+![Home Screen](screenshots/home_result.jpg)
+
